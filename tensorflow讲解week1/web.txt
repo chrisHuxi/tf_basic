@@ -1,0 +1,8 @@
+http://www.jianshu.com/p/edef9e9e63df
+云端部署
+
+http://wiki.jikexueyuan.com/project/tensorflow-zh/get_started/os_setup.html
+官方教程
+
+http://www.cnblogs.com/huidong/p/5426556.html
+docker部署和tensorflow安装
