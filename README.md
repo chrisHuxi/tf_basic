@@ -18,4 +18,4 @@ week2: simple CNN
        数据集：MNIST数据集 网盘地址：https://pan.baidu.com/s/1cAHVrC 下载完成后将文件夹放入与code文件夹下同一目录下
        
        homework:
-        1.在simpleCNN_MNIST中，我只实现了一层卷积层的网络，大家可以试试如何叠加更多层卷积层，看看效果如何。（完成后可参考simpleCNN_MNIST_edited）
+        1.在simpleCNN_MNIST中，我只实现了一层卷积层的网络，大家可以试试如何叠加更多层卷积层，看看效果如何。（完成后可参考simpleCNN_MNIST_edited）
