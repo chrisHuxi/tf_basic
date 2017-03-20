@@ -11,7 +11,8 @@ week2: simple NN
        homework:
         1.在第一版的simpleNN中，我没有添加非线性层导致准确率只在89%，请同学们自行加上线性层。（完成后可参考simpleNN_edited）
         2.如果有可能，大家可以多增加几层网络，修改hiddenLayer的数量，看看是否还能再增加准确率。
-       
+        
+        
 week3: simple CNN 
        with one convolutional layer, one pooling layer, and then linked by one simple NN which we upload last week.
        
